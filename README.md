@@ -1,2 +1,2 @@
-# blackjack
-Test task to create black jack game
+# BlackJack
+Test task to create BLackJack game
